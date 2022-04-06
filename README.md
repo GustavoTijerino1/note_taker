@@ -20,6 +20,7 @@ This project lets you create a Note-Taker.
 ## Deployment
 
 [Heroku](https://thawing-coast-19158.herokuapp.com/)
+
 [GitHub Pages](https://github.com/GustavoTijerino1/note_taker)
 
 ## License
