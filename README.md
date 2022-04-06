@@ -17,8 +17,10 @@ This project lets you create a Note-Taker.
 ## Usage
 
  You need to open the terminal for the 'index.js' then input 'node index.js'.
+## Deployment
 
-
+[Heroku](https://thawing-coast-19158.herokuapp.com/)
+[GitHub Pages](https://github.com/GustavoTijerino1/note_taker)
 
 ## License
 
