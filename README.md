@@ -2,26 +2,28 @@
  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This project lets you create a Note-Taker.
+This project lets you create a Note-Taker, by using Express and saving data from a JSON file.
 
 ## Table of Contents
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
+- [Deployment](#deployment)
 - [License](#license)
-
+- [Contact me](#contact-me)
 ## Installation
 
- You need to install Node.js, Inquirer and NPM Install.
+ You need to install Node.js and npm i express.
 
-## Usage
+## Credits 
+Zachary Auerbach
 
- You need to open the terminal for the 'index.js' then input 'node index.js'.
 ## Deployment
 
 [Heroku](https://thawing-coast-19158.herokuapp.com/)
 
 [GitHub Pages](https://github.com/GustavoTijerino1/note_taker)
+
+![Screenshot of my final page.](./assets/img/thawing-coast-19158.herokuapp.com_notes.png)
 
 ## License
 
